@@ -25,7 +25,7 @@ Hello! This is the documentation of a Connect 4 game written by Joseph Thomas in
 ## Installation
 Installation in order to run the game is simple.  
 By following the next steps you will be able to play the game in no time!
-1. Navigate to the [GitHub]() page.
+1. Navigate to the [GitHub](https://github.com/JoeT00/connect-four-game) page.
 2. Download the .zip file
 3. Unzip the File.
 4. Make sure the following are in the unzipped folder:
@@ -49,7 +49,7 @@ Here are some snippets and examples of my code for the Connect 4 game and what i
   
 3. **Q.** Where is the source code for this project and not just snippets of it?
 
- **A.** The full source code can be found on the [GitHub]() page linked here.
+ **A.** The full source code can be found on the [GitHub](https://github.com/JoeT00/connect-four-game) page linked here.
  
  ---
  ## Support/How to Contribute
