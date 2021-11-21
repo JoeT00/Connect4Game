@@ -4,7 +4,6 @@ author:
   name: Joseph Thomas
   email: 1andonlyjopa45@gmail.com
 description: "All about my Connect 4 Game and how to install it."
-github_username: JoeT00
 
 # Build settings
 remote_theme: jekyll/minima
